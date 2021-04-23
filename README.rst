@@ -91,7 +91,9 @@ https://www.docslikecode.com/articles/github-pages-python-sphinx/
 
 https://patrickfuller.github.io/molecules-from-smiles-molfiles-in-blender/
 
+** Decorators
 
+https://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonDecorators.html
 
 
 
