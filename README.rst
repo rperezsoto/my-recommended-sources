@@ -212,6 +212,9 @@ Nicole Zuckerman, PyCon 2019.
 `Put down the deep learning: When not to use neural networks and what to do instead <https://www.youtube.com/watch?v=qw5dBdTXLEs>`_
 Rachael Tatman, PyCon 2019.
 
+`Statistical Profiling (and other fun with the sys module) <https://www.youtube.com/watch?v=d5SGUscT2GA>`_
+Emin Martinian, PyCon 2019.
+
 `Why is Python slow? <https://www.youtube.com/watch?v=I4nkgJdVZFA>`_
 Anthony Shaw,  PyCon 2020.
 
@@ -257,9 +260,6 @@ Duy Nguyen, PyCon 2019.
 
 `Lowering the Stakes of Failure with Pre-mortems and Post-mortems <https://www.youtube.com/watch?v=bmMBA6SDirU>`_
 Liz Sander, PyCon 2019.
-
-`Statistical Profiling (and other fun with the sys module) <https://www.youtube.com/watch?v=d5SGUscT2GA>`_
-Emin Martinian, PyCon 2019.
 
 Low Priority/Fun/Unknown
 ++++++++++++++++++++++++
