@@ -149,6 +149,16 @@ Debugging
 `Goodbye Print, Hello Debugger! <https://www.youtube.com/watch?v=5AYIe-3cD-s>`_
 Nina Zakharenko, PyCon 2020.
 
+Packaging and Testing
++++++++++++++++++++++
+
+`Shipping your first Python package and automating future publishing <https://www.youtube.com/watch?v=P3dY3uDmnkU>`_
+Chris Wilcox, PyCon 2019.
+
+`Beyond Unit Tests: Taking Your Testing to the Next Level  <https://www.youtube.com/watch?v=MYucYon1-lk>`_
+Hillel Wayne, PyCon 2017. 
+
+
 Tools I'm dying to try
 ++++++++++++++++++++++
 
@@ -167,14 +177,15 @@ Dustin Ingram, PyCon 2019.
 Joe Gordon, PyCon 2019.
 *ast looks cool*
 
+
 Talks seen but that I do not know how to categorize:
 ----------------------------------------------------
 
+`The Refactoring Balance Beam: When to Make Changes and When to Leave it Alone <https://www.youtube.com/watch?v=sze4yunoxU0>`_
+Amanda Sopkin, PyCon 2019.
+
 `Building a cross-platform native app with BeeWare <https://www.youtube.com/watch?v=qaPzlIJ57dk>`_
 Russell Keith-Magee, PyCon 2018.
-
-`Beyond Unit Tests: Taking Your Testing to the Next Level  <https://www.youtube.com/watch?v=MYucYon2-lk>`_
-Hillel Wayne, PyCon 2018. 
 
 `Big-O: How Code Slows as Data Grows <https://www.youtube.com/watch?v=duvZ-2UK0fc>`_ 
 Ned Batchelder, PyCon 2018.
@@ -216,12 +227,6 @@ Talks I have in the queue
 
 `Practical Sphinx <https://www.youtube.com/watch?v=0ROZRNZkPS8>`_
 Carol Willing, PyCon 2018.
-
-`Shipping your first Python package and automating future publishing <https://www.youtube.com/watch?v=P3dY3uDmnkU>`_
-Chris Wilcox, PyCon 2019.
-
-`The Refactoring Balance Beam: When to Make Changes and When to Leave it Alone <https://www.youtube.com/watch?v=sze4yunoxU0>`_
-Amanda Sopkin, PyCon 2019.
 
 `The Black Magic of Python Wheels <https://www.youtube.com/watch?v=02aAZ8u3wEQ>`_
 Elana Hashman, PyCon 2019.
