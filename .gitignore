@@ -1,6 +1,3 @@
-_doc
-*.egg-info
-__pycache__
-.pytest_cache
-.versionner.rc
 .vscode
+.git
+docs/_build

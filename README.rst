@@ -178,7 +178,7 @@ Joe Gordon, PyCon 2019.
 *ast looks cool*
 
 
-Talks seen but that I do not know how to categorize:
+Talks seen but that I do not know how to categorize
 ----------------------------------------------------
 
 `The Refactoring Balance Beam: When to Make Changes and When to Leave it Alone <https://www.youtube.com/watch?v=sze4yunoxU0>`_
