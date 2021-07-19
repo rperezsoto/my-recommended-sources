@@ -184,6 +184,9 @@ Talks seen but that I do not know how to categorize
 `The Refactoring Balance Beam: When to Make Changes and When to Leave it Alone <https://www.youtube.com/watch?v=sze4yunoxU0>`_
 Amanda Sopkin, PyCon 2019.
 
+`Beautiful Python Refactoring <https://www.youtube.com/watch?v=W-lZttZhsUY>`_
+Connor Hoekstra, PyCon 2020
+
 `Building a cross-platform native app with BeeWare <https://www.youtube.com/watch?v=qaPzlIJ57dk>`_
 Russell Keith-Magee, PyCon 2018.
 
