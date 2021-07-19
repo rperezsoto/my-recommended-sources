@@ -2,3 +2,4 @@
 .git
 docs/_build
 .pyc
+__pycache__
