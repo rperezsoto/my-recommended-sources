@@ -1,5 +1,5 @@
 .vscode
 .git
 docs/_build
-.pyc
-__pycache__
+*.pyc
+__pycache__/
